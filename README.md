@@ -1,4 +1,5 @@
 # -Bike-Sales-Dashboard-in-Excel
+![](Bike.png)
 This project presents a Bike Sales Dashboard built in Microsoft Excel. The dashboard provides insights into customer demographics, income, age distribution, commute distance, and regional trends influencing bike purchases. It was designed using PivotTables, PivotCharts, and slicers to allow interactive analysis of customer behavior
 # Project Summary
 The Bike Sales Dashboard enables businesses and analysts to understand customer purchasing patterns and the factors affecting bike sales. The analysis is based on customer demographics such as marital status, education level, gender, age, region, and commute distance. By integrating slicers, users can interactively filter the dashboard to reveal insights tailored to specific customer segments.
